@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Aman!</h1>
 
-### 👨‍💻 About Me :
+### 👨‍💻 About Me:
 
 - 🔭 I’m currently working on **developing AI-driven threat modeling solutions**
 
@@ -12,7 +12,7 @@
 
 - 📫 Get in touch through **[Linkedin](https://www.linkedin.com/in/thatvirdiguy)**
 
-### 🛠️ Languages and Tools :
+### 🛠️ Tech Stack:
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
