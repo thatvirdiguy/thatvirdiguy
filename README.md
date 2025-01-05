@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **developing AI-driven threat modeling solutions**
 
-- 🌱 I’m currently learning **Application Security**
-
 - 📝 I regularly write articles on [https://thatvirdiguy.github.io/](https://thatvirdiguy.github.io/blog/)
 
 - 💬 Ask me about **Threat Modeling, Cloud Security, DevSecOps**
@@ -24,7 +22,6 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-in/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/> </a>
-  
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thatvirdiguy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
